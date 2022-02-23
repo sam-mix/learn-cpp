@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="error1.cpp" />
+    <ClCompile Include="error2.cpp" />
+    <ClCompile Include="nested.cpp" />
     <ClCompile Include="bank.cpp" />
     <ClCompile Include="Greating.cpp" />
     <ClCompile Include="mytime0.cpp" />
@@ -158,6 +161,8 @@
     <ClCompile Include="stock20.cpp" />
     <ClCompile Include="stone.cpp" />
     <ClCompile Include="stonewt.cpp" />
+    <ClCompile Include="templatec.cpp" />
+    <ClCompile Include="template_test.cpp" />
     <ClCompile Include="usenmsp.cpp" />
     <ClCompile Include="test_ref.cpp" />
     <ClCompile Include="stock00.cpp" />
@@ -176,12 +181,16 @@
     <ClInclude Include="mytime3.h" />
     <ClInclude Include="namesp.h" />
     <ClInclude Include="queue.h" />
+    <ClInclude Include="queuetp.h" />
     <ClInclude Include="stack.h" />
+    <ClInclude Include="stacktp.h" />
     <ClInclude Include="stock00.h" />
     <ClInclude Include="stock20.h" />
     <ClInclude Include="stock10.h" />
     <ClInclude Include="stonewt.h" />
+    <ClInclude Include="tempparm.cpp" />
     <ClInclude Include="vect.h" />
+    <ClInclude Include="workermi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

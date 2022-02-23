@@ -99,6 +99,21 @@
     <ClCompile Include="bank.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="template_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="templatec.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="nested.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="error1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="error2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="namesp.h">
@@ -132,6 +147,18 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="queue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="workermi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stacktp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tempparm.cpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="queuetp.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
