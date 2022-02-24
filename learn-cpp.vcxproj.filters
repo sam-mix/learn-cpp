@@ -120,6 +120,12 @@
     <ClCompile Include="rtti1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="constcast.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="str1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="namesp.h">

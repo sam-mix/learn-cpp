@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="constcast.cpp" />
     <ClCompile Include="error1.cpp" />
     <ClCompile Include="error2.cpp" />
     <ClCompile Include="error3.cpp" />
@@ -163,6 +164,7 @@
     <ClCompile Include="stock20.cpp" />
     <ClCompile Include="stone.cpp" />
     <ClCompile Include="stonewt.cpp" />
+    <ClCompile Include="str1.cpp" />
     <ClCompile Include="templatec.cpp" />
     <ClCompile Include="template_test.cpp" />
     <ClCompile Include="usenmsp.cpp" />
