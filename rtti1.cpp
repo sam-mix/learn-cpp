@@ -48,6 +48,11 @@ int main() {
 		if (ps = dynamic_cast<Superb*> (pg)) {
 			ps->Say();
 		}
+
+		if (typeid(Magnificent) == typeid(*pg)) {
+			cout << "Yes, you are really magnificent." << endl;
+		}
+
 	}
 	return 0;
 }
