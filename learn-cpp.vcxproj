@@ -153,6 +153,7 @@
     </ClCompile>
     <ClCompile Include="queue.cpp" />
     <ClCompile Include="randwalk.cpp" />
+    <ClCompile Include="rtti1.cpp" />
     <ClCompile Include="sqrt.cpp" />
     <ClCompile Include="external.cpp" />
     <ClCompile Include="stack.cpp" />
