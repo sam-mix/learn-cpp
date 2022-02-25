@@ -13,7 +13,7 @@
 //		unique_ptr<string>(new string("Goose Eggs")),
 //	};
 //	unique_ptr<string> pwin;
-//	pwin = films[2]; // films[2] loses ownership
+//	pwin = move(films[2]); // films[2] loses ownership
 //
 //	cout << "The nominees for best avian baseball film are" << endl;
 //	for (int i = 0; i < 5; i++) {
