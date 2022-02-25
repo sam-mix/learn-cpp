@@ -165,6 +165,7 @@
     <ClCompile Include="stone.cpp" />
     <ClCompile Include="stonewt.cpp" />
     <ClCompile Include="str1.cpp" />
+    <ClCompile Include="strfile.cpp" />
     <ClCompile Include="templatec.cpp" />
     <ClCompile Include="template_test.cpp" />
     <ClCompile Include="usenmsp.cpp" />
