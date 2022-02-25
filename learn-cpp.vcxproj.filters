@@ -129,6 +129,12 @@
     <ClCompile Include="strfile.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="hangman.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="smartptrs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="namesp.h">

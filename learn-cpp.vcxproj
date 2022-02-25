@@ -143,6 +143,7 @@
     <ClCompile Include="error1.cpp" />
     <ClCompile Include="error2.cpp" />
     <ClCompile Include="error3.cpp" />
+    <ClCompile Include="hangman.cpp" />
     <ClCompile Include="nested.cpp" />
     <ClCompile Include="bank.cpp" />
     <ClCompile Include="Greating.cpp" />
@@ -155,6 +156,7 @@
     <ClCompile Include="queue.cpp" />
     <ClCompile Include="randwalk.cpp" />
     <ClCompile Include="rtti1.cpp" />
+    <ClCompile Include="smartptrs.cpp" />
     <ClCompile Include="sqrt.cpp" />
     <ClCompile Include="external.cpp" />
     <ClCompile Include="stack.cpp" />
