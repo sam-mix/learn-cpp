@@ -143,6 +143,9 @@
     <ClCompile Include="error1.cpp" />
     <ClCompile Include="error2.cpp" />
     <ClCompile Include="error3.cpp" />
+    <ClCompile Include="fowl.cpp" />
+    <ClCompile Include="fowl1.cpp" />
+    <ClCompile Include="fowl2.cpp" />
     <ClCompile Include="hangman.cpp" />
     <ClCompile Include="nested.cpp" />
     <ClCompile Include="bank.cpp" />

@@ -135,6 +135,15 @@
     <ClCompile Include="smartptrs.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="fowl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fowl1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fowl2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="namesp.h">
