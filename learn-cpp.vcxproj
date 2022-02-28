@@ -184,6 +184,8 @@
     <ClCompile Include="usetime1.cpp" />
     <ClCompile Include="usetime3.cpp" />
     <ClCompile Include="vect.cpp" />
+    <ClCompile Include="vect1.cpp" />
+    <ClCompile Include="vect2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mytime0.h" />

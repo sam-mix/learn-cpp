@@ -144,6 +144,12 @@
     <ClCompile Include="fowl2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="vect1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vect2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="namesp.h">
