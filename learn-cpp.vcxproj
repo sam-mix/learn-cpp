@@ -192,6 +192,7 @@
     <ClCompile Include="vect.cpp" />
     <ClCompile Include="vect1.cpp" />
     <ClCompile Include="vect2.cpp" />
+    <ClCompile Include="vslice.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mytime0.h" />
