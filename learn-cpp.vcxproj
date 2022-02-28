@@ -188,6 +188,7 @@
     <ClCompile Include="usetime0.cpp" />
     <ClCompile Include="usetime1.cpp" />
     <ClCompile Include="usetime3.cpp" />
+    <ClCompile Include="valvect.cpp" />
     <ClCompile Include="vect.cpp" />
     <ClCompile Include="vect1.cpp" />
     <ClCompile Include="vect2.cpp" />
