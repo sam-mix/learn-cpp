@@ -150,6 +150,21 @@
     <ClCompile Include="vect2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="functor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="funadap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strgstl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="listrmv.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="usealgo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="namesp.h">

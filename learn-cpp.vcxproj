@@ -143,10 +143,13 @@
     <ClCompile Include="error1.cpp" />
     <ClCompile Include="error2.cpp" />
     <ClCompile Include="error3.cpp" />
+    <ClCompile Include="funadap.cpp" />
+    <ClCompile Include="functor.cpp" />
     <ClCompile Include="fowl.cpp" />
     <ClCompile Include="fowl1.cpp" />
     <ClCompile Include="fowl2.cpp" />
     <ClCompile Include="hangman.cpp" />
+    <ClCompile Include="listrmv.cpp" />
     <ClCompile Include="nested.cpp" />
     <ClCompile Include="bank.cpp" />
     <ClCompile Include="Greating.cpp" />
@@ -171,8 +174,10 @@
     <ClCompile Include="stonewt.cpp" />
     <ClCompile Include="str1.cpp" />
     <ClCompile Include="strfile.cpp" />
+    <ClCompile Include="strgstl.cpp" />
     <ClCompile Include="templatec.cpp" />
     <ClCompile Include="template_test.cpp" />
+    <ClCompile Include="usealgo.cpp" />
     <ClCompile Include="usenmsp.cpp" />
     <ClCompile Include="test_ref.cpp" />
     <ClCompile Include="stock00.cpp" />
