@@ -207,6 +207,12 @@
     <ClCompile Include="binaryio.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="rvref.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="useless.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="namesp.h">

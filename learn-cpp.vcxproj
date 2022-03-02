@@ -170,6 +170,7 @@
     <ClCompile Include="randomio.cpp" />
     <ClCompile Include="randwalk.cpp" />
     <ClCompile Include="rtti1.cpp" />
+    <ClCompile Include="rvref.cpp" />
     <ClCompile Include="setf.cpp" />
     <ClCompile Include="setf2.cpp" />
     <ClCompile Include="smartptrs.cpp" />
@@ -189,6 +190,7 @@
     <ClCompile Include="template_test.cpp" />
     <ClCompile Include="truncate.cpp" />
     <ClCompile Include="usealgo.cpp" />
+    <ClCompile Include="useless.cpp" />
     <ClCompile Include="usenmsp.cpp" />
     <ClCompile Include="test_ref.cpp" />
     <ClCompile Include="stock00.cpp" />
