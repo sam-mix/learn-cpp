@@ -186,6 +186,27 @@
     <ClCompile Include="setf2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="iomanip.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="check_id.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cinexcp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="peeker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="truncate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="randomio.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binaryio.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="namesp.h">

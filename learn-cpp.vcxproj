@@ -139,8 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="check_id.cpp" />
+    <ClCompile Include="cinexcp.cpp" />
     <ClCompile Include="constcast.cpp" />
     <ClCompile Include="defaults.cpp" />
+    <ClCompile Include="binaryio.cpp" />
     <ClCompile Include="error1.cpp" />
     <ClCompile Include="error2.cpp" />
     <ClCompile Include="error3.cpp" />
@@ -150,6 +153,7 @@
     <ClCompile Include="fowl1.cpp" />
     <ClCompile Include="fowl2.cpp" />
     <ClCompile Include="hangman.cpp" />
+    <ClCompile Include="iomanip.cpp" />
     <ClCompile Include="listrmv.cpp" />
     <ClCompile Include="manip.cpp" />
     <ClCompile Include="nested.cpp" />
@@ -161,7 +165,9 @@
     <ClCompile Include="namesp.cpp">
       <CallingConvention Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Cdecl</CallingConvention>
     </ClCompile>
+    <ClCompile Include="peeker.cpp" />
     <ClCompile Include="queue.cpp" />
+    <ClCompile Include="randomio.cpp" />
     <ClCompile Include="randwalk.cpp" />
     <ClCompile Include="rtti1.cpp" />
     <ClCompile Include="setf.cpp" />
@@ -181,6 +187,7 @@
     <ClCompile Include="strgstl.cpp" />
     <ClCompile Include="templatec.cpp" />
     <ClCompile Include="template_test.cpp" />
+    <ClCompile Include="truncate.cpp" />
     <ClCompile Include="usealgo.cpp" />
     <ClCompile Include="usenmsp.cpp" />
     <ClCompile Include="test_ref.cpp" />
