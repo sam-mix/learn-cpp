@@ -213,6 +213,12 @@
     <ClCompile Include="useless.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="demo_for_cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="io.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="namesp.h">

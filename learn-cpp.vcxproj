@@ -144,6 +144,7 @@
     <ClCompile Include="constcast.cpp" />
     <ClCompile Include="defaults.cpp" />
     <ClCompile Include="binaryio.cpp" />
+    <ClCompile Include="demo_for_cpp.cpp" />
     <ClCompile Include="error1.cpp" />
     <ClCompile Include="error2.cpp" />
     <ClCompile Include="error3.cpp" />
@@ -153,6 +154,7 @@
     <ClCompile Include="fowl1.cpp" />
     <ClCompile Include="fowl2.cpp" />
     <ClCompile Include="hangman.cpp" />
+    <ClCompile Include="io.c" />
     <ClCompile Include="iomanip.cpp" />
     <ClCompile Include="listrmv.cpp" />
     <ClCompile Include="manip.cpp" />
